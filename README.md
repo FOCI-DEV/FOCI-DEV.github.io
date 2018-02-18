@@ -15,3 +15,6 @@ Cons (debateable)
 - Potentially less specific since it adheres to "structure first command name second"*
 
 Note: *There can be ootentially infinite alternatives to theae, though these would represent main structure. Also, cureent command list wouldnt need tk be disabled, though it would help in quicking any a potentially confusing transition process imo*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzE0NDE4NzFdfQ==
+-->
